@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Itumeleng Sekoma (e2skm) 
-Turning curiosity into code and data-driven solutions.
+
 🚀 **Aspiring Business Analyst | Data Enthusiast | Developer-in-Training**  
 Passionate about using technology and data to solve real-world problems and drive meaningful impact. I bridge the gap between business needs and technical solutions through continuous learning, curiosity, and collaboration.
 
